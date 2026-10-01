@@ -2,7 +2,7 @@
 
 ## Environment variable
 Set:
-BOT_TOKEN=your_telegram_bot_token
+BOT_TOKEN=8812359863:AAG6-Ww1pbCNuzHO4GkNAXTCE3fG7Dg4swY
 
 Do not publish the bot token in GitHub or chat.
 
